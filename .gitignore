@@ -44,6 +44,7 @@ application-local.yml
 
 ### local ###
 # log/
+C:
 
 ### mavne ###
 target/
